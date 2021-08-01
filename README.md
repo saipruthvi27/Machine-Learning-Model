@@ -31,3 +31,4 @@ The model types used to build the model:
 #### Analysis Report
 Developed a consolidated report to submit to the management containing top actionable insights from the case as well as from the final revenue and cross-sell promotion models.
 
+Kindly go through all the documents for a much more detailed and scripted analysis.
