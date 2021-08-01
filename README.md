@@ -7,3 +7,27 @@ Apprentice Chef was created for busy professionals with little or no experience 
 - Regression Analysis
 - Classification Analysis
 - Analysis Report
+
+####  Regression Analysis
+This analysis consists of feature engineering, model preparation, variable selection, and model development.
+
+The model types used:
+- OLS Regression (standard linear regression)
+- Lasso Regression
+- Bayesian Automatic Relevance Determination (ARD)
+- K-Nearest Neighbors Regression (KNN)
+
+#### Classification Analysis
+This analysis consists of bulding a predictive model on a binomial response variable(Y-variable) using the information retrieved from the regression analysis script.
+
+The model types used to build the model:
+- Logistic Regression
+- Lasso Regression (Classification)
+- K-Nearest Neighbors Classification (KNN)
+- Classification Trees
+- Random Forest (Classification)
+- Gradient Boosted Models (GBM)
+
+#### Analysis Report
+Developed a consolidated report to submit to the management containing top actionable insights from the case as well as from the final revenue and cross-sell promotion models.
+
